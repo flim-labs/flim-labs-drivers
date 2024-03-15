@@ -69,6 +69,6 @@ If, however, you decide to install [Intensity Tracing](https://github.com/flim-l
 
 FLIM LABS: info@flimlabs.com
 
-Project Link: [FLIM LABS - Intensity Tracing](https://github.com/flim-labs/intensity-tracing-py)
+Project Link: [FLIM LABS Drivers](https://github.com/flim-labs/flim-labs-drivers)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
