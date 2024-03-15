@@ -47,7 +47,9 @@ If, however, you decide to install [Intensity Tracing](https://github.com/flim-l
 
 <br>
 
-<a style="background-color: #002d50; padding: 1rem; color: white; font-weight: bold; letter-spacing: 0.05rem; border: none; outline: none; box-shadow: none; border-radius: 5px;font-size: 14px" href="./FLIM LABS - Data Acquisition Card drivers.msi" download> DOWNLOAD DRIVERS</a>
+<button style="background-color: #002d50; padding: 1rem; color: white; font-weight: bold; letter-spacing: 0.05rem; border: none; outline: none; box-shadow: none; border-radius: 5px;font-size: 14px">
+    <a href="./FLIM LABS - Data Acquisition Card drivers.msi" download style="color: inherit; text-decoration: none;"> DOWNLOAD DRIVERS</a>
+</button>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
