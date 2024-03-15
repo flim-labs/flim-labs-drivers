@@ -26,7 +26,7 @@
 
 <!-- Dowload Drivers -->
 
-## Download Drivers [(click here)](./FLIM%20LABS%20-%20Data%20Acquisition%20Card%20drivers.zip) <img src="../assets//images/shared/download-icon-black.png" width=20>
+## Download Drivers [(click here)](https://github.com/flim-labs/flim-labs-drivers/releases/tag/data-acquisition-card-drivers) <img src="../assets//images/shared/download-icon-black.png" width=20>
 
 Welcome to [FLIM LABS Data Acquisition Card Drivers](https://github.com/flim-labs/flim-labs-drivers) page. In this page you can download the installer for the FLIM LABS Data Acquisition Card Drivers.
 
@@ -47,7 +47,7 @@ If, however, you decide to install [Intensity Tracing](https://github.com/flim-l
 
 <br>
 
-<a href="./FLIM LABS - Data Acquisition Card drivers.zip" download>
+<a target="_blank" href="https://github.com/flim-labs/flim-labs-drivers/releases/tag/data-acquisition-card-drivers" download>
 <img src="../assets/images/shared/download-icon-black.png" width=15>
  DOWNLOAD DRIVERS</a>
 
