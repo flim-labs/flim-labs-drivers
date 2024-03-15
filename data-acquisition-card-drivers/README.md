@@ -59,7 +59,7 @@ If, however, you decide to install [Intensity Tracing](https://github.com/flim-l
 
 - [FLIM LABS Data Acquisition Card](https://www.flimlabs.com/products/data-acquisition-card/)
 - [FLIM LABS - Intensity Tracing](https://github.com/flim-labs/intensity-tracing-py)
-- [FLIM LABS - Intensity Tracing](https://github.com/flim-labs/spectroscopy-py)
+- [FLIM LABS - Spectroscopy](https://github.com/flim-labs/spectroscopy-py)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
